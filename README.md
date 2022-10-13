@@ -15,4 +15,4 @@ Python 3.7. Please also check the “requirements.txt” file for the necessary 
 # Citation request
 If you have found our paper and / or part of our code useful, please cite our work as follows:
 
-K. Malialis, D. Papatheodoulou, S. Filippou, C. G. Panayiotou, M. M. Polycarpou. Data Augmentation On-the-fly and Active Learning in Data Stream Classification. IEEE Symposium Series on Computational Intelligence (SSCI), 2022.
+- K. Malialis, D. Papatheodoulou, S. Filippou, C. G. Panayiotou, M. M. Polycarpou. Data Augmentation On-the-fly and Active Learning in Data Stream Classification. IEEE Symposium Series on Computational Intelligence (SSCI), 2022.
